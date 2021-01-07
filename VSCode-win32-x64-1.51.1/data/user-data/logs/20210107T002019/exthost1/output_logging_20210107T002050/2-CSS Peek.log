@@ -1,0 +1,73 @@
+[Server(17564) MY_APP1/] onInitialize
+[Server(17564) MY_APP1/] setupInitialStylemap
+[Server(17564) MY_APP1/] Document opened: inv-tabs.component.html
+[Server(17564) MY_APP1/] Document changed: inv-tabs.component.html
+[Server(17564) MY_APP1/] Document opened: tabs.component.ts
+[Server(17564) MY_APP1/] Document changed: tabs.component.ts
+[Server(17564) MY_APP1/] Document changed: tabs.component.ts
+[Server(17564) MY_APP1/] Document changed: tabs.component.ts
+[Server(17564) MY_APP1/] Document changed: tabs.component.ts
+tab.active); 484
+  any 352 355
+Invalid Selector
+[Server(17564) MY_APP1/] Document changed: tabs.component.ts
+[Server(17564) MY_APP1/] Document changed: tabs.component.ts
+[Server(17564) MY_APP1/] Document opened: general-tab.component.html
+[Server(17564) MY_APP1/] Document changed: general-tab.component.html
+[Server(17564) MY_APP1/] Document opened: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document opened: app.module.ts
+[Server(17564) MY_APP1/] Document changed: app.module.ts
+[Server(17564) MY_APP1/] Document changed: app.module.ts
+[Server(17564) MY_APP1/] Document changed: app.module.ts
+[Server(17564) MY_APP1/] Document opened: app-main-content.component.html
+[Server(17564) MY_APP1/] Document changed: app-main-content.component.html
+[Server(17564) MY_APP1/] Document opened: app-menu.component.html
+[Server(17564) MY_APP1/] Document changed: app-menu.component.html
+[Server(17564) MY_APP1/] Document changed: app-menu.component.html
+app-menu-employee 5
+Invalid Selector
+[Server(17564) MY_APP1/] Document changed: app-menu.component.html
+[Server(17564) MY_APP1/] Document changed: app-menu.component.html
+[Server(17564) MY_APP1/] Document opened: app-routing.module.ts
+[Server(17564) MY_APP1/] Document changed: app-routing.module.ts
+[Server(17564) MY_APP1/] Document changed: app-routing.module.ts
+[Server(17564) MY_APP1/] Document changed: app-routing.module.ts
+createEmp 774
+Invalid Selector
+[Server(17564) MY_APP1/] Document changed: app-routing.module.ts
+[Server(17564) MY_APP1/] Document changed: app.module.ts
+[Server(17564) MY_APP1/] Document changed: app.module.ts
+[Server(17564) MY_APP1/] Document changed: app-menu.component.html
+[Server(17564) MY_APP1/] Document changed: app.module.ts
+[Server(17564) MY_APP1/] Document changed: app.module.ts
+import 302
+Invalid Selector
+[Server(17564) MY_APP1/] Document changed: app-routing.module.ts
+[Server(17564) MY_APP1/] Document changed: app-routing.module.ts
+path: 636
+Invalid Selector
+[Server(17564) MY_APP1/] Document changed: app-routing.module.ts
+[Server(17564) MY_APP1/] Document opened: inv-tabs.component.html
+[Server(17564) MY_APP1/] Document changed: inv-tabs.component.html
+[Server(17564) MY_APP1/] Document opened: general-tab.component.html
+[Server(17564) MY_APP1/] Document changed: general-tab.component.html
+[Server(17564) MY_APP1/] Document opened: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts
+[Server(17564) MY_APP1/] Document opened: general-tab.component.ts
+[Server(17564) MY_APP1/] Document changed: general-tab.component.ts

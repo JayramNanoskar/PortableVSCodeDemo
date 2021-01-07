@@ -1,0 +1,31 @@
+[2021-01-07 00:55:59.088] [exthost] [info] extension host started
+[2021-01-07 00:55:59.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-07 00:55:59.256] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-07 00:55:59.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-07 00:55:59.276] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-07 00:55:59.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-07 00:55:59.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-07 00:55:59.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-07 00:55:59.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/git/dist/main
+[2021-01-07 00:55:59.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-07 00:55:59.344] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-07 00:55:59.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-07 00:55:59.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/search-result/dist/extension.js
+[2021-01-07 00:55:59.353] [exthost] [info] ExtensionService#_doActivateExtension my.uigenerator {"startup":true,"extensionId":{"value":"my.uigenerator","_lower":"my.uigenerator"},"activationEvent":"*"}
+[2021-01-07 00:55:59.353] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/data/extensions/my.uigenerator-0.0.1/out/extension.js
+[2021-01-07 00:55:59.370] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2021-01-07 00:55:59.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/data/extensions/pranaygp.vscode-css-peek-4.0.2/client/out/extension
+[2021-01-07 00:55:59.555] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-01-07 00:55:59.555] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-01-07 00:56:00.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-07 00:56:00.629] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/npm/dist/npmMain
+[2021-01-07 00:56:01.282] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-07 00:56:01.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-07 00:56:01.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-07 00:56:01.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/github/dist/extension.js
+[2021-01-07 00:56:01.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-07 00:56:01.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-07 00:56:01.873] [exthost] [info] eager extensions activated
+[2021-01-07 00:56:01.926] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-01-07 00:56:01.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/ANGULAR_POC_DEMO/PortableVSCODE/VSCode-win32-x64-1.51.1/data/extensions/dbaeumer.vscode-eslint-2.1.14/client/out/extension
+[2021-01-07 00:56:10.330] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000

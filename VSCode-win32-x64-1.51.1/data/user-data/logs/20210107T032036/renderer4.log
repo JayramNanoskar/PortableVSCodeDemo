@@ -1,0 +1,1 @@
+[2021-01-07 03:20:48.081] [renderer4] [warning] UNRESPONSIVE extension host, 'vscode.git' took 100% of 852.968ms, saved PROFILE here: 'e:\ANGULAR_POC_DEMO\PortableVSCODE\VSCode-win32-x64-1.51.1\data\tmp\exthost-270535.cpuprofile' [{"id":"vscode.git","total":852757,"percentage":100}]

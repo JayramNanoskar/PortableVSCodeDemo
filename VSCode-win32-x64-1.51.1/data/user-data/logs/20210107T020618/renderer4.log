@@ -1,0 +1,2 @@
+[2021-01-07 03:20:56.133] [renderer4] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat 'e:\ANGULAR_POC_DEMO\UIGeneratorExt\.vscode'
+[2021-01-07 03:20:56.133] [renderer4] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat 'e:\ANGULAR_POC_DEMO\UIGeneratorExt\.vscode'

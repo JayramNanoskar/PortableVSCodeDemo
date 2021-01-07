@@ -1,0 +1,11 @@
+{    
+    "inputselect" : { 
+       
+      "prefix": "inputselect", 
+       
+      "body": [  
+          "<select id='city' formControlName='user_city' class='form-control'><option value='Ahmedabad'>Ahmedabad</option><option value='Baroda'>Baroda</option></select>"
+      ],
+      "description": "Sample HTML Code for dropdown element"
+    }
+}

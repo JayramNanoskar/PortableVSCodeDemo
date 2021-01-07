@@ -1,0 +1,72 @@
+{
+    "name": "inputelement",
+    "displayName": "inputelement",
+    "description": "all input element Html template\\",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ],
+		"keybindings": [
+			{
+                "key": "ctrl+shift+I",
+                "command": "editor.action.insertSnippet",
+                "args": {
+                    "snippet": ["Input code"]
+                }
+            },
+            {
+                "key": "ctrl+shift+S",
+                "command": "editor.action.insertSnippet",
+                "args": {
+                    "snippet": ["<select formControlName='user_order' id='orders' class='form-control'>",
+                                "\t<option *ngFor='let order of allOrders; let i = index' [value]='allOrders[i].id'>",
+                                "\t\t{{allOrders[i].name}}",
+                                "\t</option>",
+                                "</select>"
+
+                    ]
+                }
+            },
+            {
+                "key": "ctrl+shift+R",
+                "command": "editor.action.insertSnippet",
+                "args": {
+                    "snippet": "Radio Button Code"
+                }
+            },
+            {
+                "key": "ctrl+shift+C",
+                "command": "editor.action.insertSnippet",
+                "args": {
+                    "snippet": "Checkbox code"
+                }
+            },
+            {
+                "key": "ctrl+shift+T",
+                "command": "editor.action.insertSnippet",
+                "args": {
+                    "snippet": "Text Area Code"
+                }
+            },
+            {
+                "key": "ctrl+shift+B",
+                "command": "editor.action.insertSnippet",
+                "args": {
+                    "snippet": "Button Code"
+                }
+            }
+
+              
+		  ]
+    }
+}
